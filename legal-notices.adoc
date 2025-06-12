@@ -1,13 +1,13 @@
 ---
 sidebar: sidebar 
-permalink: legal.html 
+permalink: legal-notices.html 
 keywords:  
 summary:  
 ---
 = Note legali
 :allow-uri-read: 
 :icons: font
-:imagesdir: ../media/
+:imagesdir: ./media/
 
 
 [role="lead"]
@@ -45,4 +45,6 @@ link:https://www.netapp.com/company/legal/privacy-policy/["https://www.netapp.co
 
 == Open source
 
-È possibile consultare il copyright e le licenze di terze parti utilizzate nel software NetApp per Astra Trident nel file degli avvisi per ciascuna release all'indirizzo https://github.com/NetApp/trident/[].
+I file di avviso forniscono informazioni sul copyright e sulle licenze di terze parti utilizzate nel software NetApp.
+
+https://github.com/NetApp/trident/[].
